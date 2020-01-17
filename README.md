@@ -5,6 +5,12 @@ Repository containing the materials for Kaggle Bengali AI competition
 
 Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/bengali-ai-eda)
 
+## Useful Resources
+1. [Shake-shake regularization](https://arxiv.org/pdf/1705.07485.pdf) paper
+2. [MixUp training](https://arxiv.org/pdf/1710.09412.pdf) paper
+3. [Label Smoothing](https://arxiv.org/pdf/1906.02629.pdf) paper
+4. [Small CNN architectures](https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d) Medium article
+
 ## Related Research Papers Review
 You might find useful these research papers/repositories:
 
