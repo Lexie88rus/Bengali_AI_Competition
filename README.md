@@ -10,6 +10,9 @@ Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/bengali-ai-eda)
 2. [MixUp training](https://arxiv.org/pdf/1710.09412.pdf) paper
 3. [Label Smoothing](https://arxiv.org/pdf/1906.02629.pdf) paper
 4. [Small CNN architectures](https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d) Medium article
+5. [Pseudo-labeling](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
+6. [SE Networks](https://arxiv.org/pdf/1709.01507.pdf)
+7. [A Posteriori Corrections to Classification Methods](https://www.researchgate.net/publication/250423867_A_Posteriori_Corrections_to_Classification_Methods)
 
 ## Related Research Papers Review
 You might find useful these research papers/repositories:
