@@ -6,11 +6,11 @@ Repository containing the materials for Kaggle Bengali AI competition
 Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/bengali-ai-eda)
 
 ## Useful Resources
-1. [Shake-shake regularization](https://arxiv.org/pdf/1705.07485.pdf) paper
-2. [MixUp training](https://arxiv.org/pdf/1710.09412.pdf) paper
-3. [Label Smoothing](https://arxiv.org/pdf/1906.02629.pdf) paper
+1. [Shake-shake regularization](https://arxiv.org/pdf/1705.07485.pdf) paper, [implementation example](https://github.com/t-vi/pytorch-tvmisc/blob/master/misc/cifar10-shake-shake.ipynb)
+2. [MixUp training](https://arxiv.org/pdf/1710.09412.pdf) paper, [implementation example](https://github.com/facebookresearch/mixup-cifar10)
+3. [Label Smoothing](https://arxiv.org/pdf/1906.02629.pdf) paper, [implementation example](https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch)
 4. [Small CNN architectures](https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d) Medium article
-5. [Pseudo-labeling](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
+5. [Pseudo-labeling](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf), [implementation](https://github.com/iBelieveCJM/pseudo_label-pytorch), [implementation](https://github.com/EricArazo/PseudoLabeling)
 6. [SE Networks](https://arxiv.org/pdf/1709.01507.pdf)
 7. [A Posteriori Corrections to Classification Methods](https://www.researchgate.net/publication/250423867_A_Posteriori_Corrections_to_Classification_Methods)
 
