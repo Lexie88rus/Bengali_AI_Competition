@@ -14,6 +14,7 @@ Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/bengali-ai-eda)
 6. [SE Networks](https://arxiv.org/pdf/1709.01507.pdf)
 7. [A Posteriori Corrections to Classification Methods](https://www.researchgate.net/publication/250423867_A_Posteriori_Corrections_to_Classification_Methods)
 8. [CutMix regularization](https://arxiv.org/pdf/1905.04899.pdf), [implementation in PyTorch](https://github.com/clovaai/CutMix-PyTorch)
+9. [ResNext](https://github.com/prlz77/ResNeXt.pytorch) pytorch implementation
 
 ## Related Research Papers Review
 You might find useful these research papers/repositories:
