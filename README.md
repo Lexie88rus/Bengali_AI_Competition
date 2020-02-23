@@ -11,7 +11,7 @@ Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/bengali-ai-eda)
 3. [Label Smoothing](https://arxiv.org/pdf/1906.02629.pdf) paper, [implementation example](https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch)
 4. [Small CNN architectures](https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d) Medium article
 5. [Pseudo-labeling](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf), [implementation](https://github.com/iBelieveCJM/pseudo_label-pytorch), [implementation](https://github.com/EricArazo/PseudoLabeling)
-6. [SE Networks](https://arxiv.org/pdf/1709.01507.pdf)
+6. [SE Networks](https://arxiv.org/pdf/1709.01507.pdf), [pytorch implementation](https://github.com/moskomule/senet.pytorch)
 7. [A Posteriori Corrections to Classification Methods](https://www.researchgate.net/publication/250423867_A_Posteriori_Corrections_to_Classification_Methods)
 8. [CutMix regularization](https://arxiv.org/pdf/1905.04899.pdf), [implementation in PyTorch](https://github.com/clovaai/CutMix-PyTorch)
 9. [ResNext](https://github.com/prlz77/ResNeXt.pytorch) pytorch implementation
